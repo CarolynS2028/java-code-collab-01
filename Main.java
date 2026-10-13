@@ -3,7 +3,7 @@ import java.util.Scanner;  // this is new...
 public class Main {
   public static void main(String[] args) {
 
-    int age = 16; 
+    int age = 44; 
     double gpa = 3.75; 
     char grade = 'A'; 
     boolean isPassed = true; 
@@ -19,8 +19,8 @@ public class Main {
 
 	System.out.println("Cool, now let's get lunch!");
 	System.out.print("Zazzy's ");
-	System.out.print("is ");
-	System.out.print("closed 😔");
+	System.out.println("is ");
+	System.out.print("closed 😔. ");
 
 	double lunchMoney = 6.50;
     double pricePerSlice = 2.75;
